@@ -1,24 +1,165 @@
-<h1 align="center">Hi 👋, I'm Ashiqul Islam</h1>
-<h3 align="center">Software Developer</h3>
+# Hi 👋, I'm Ashiqul Islam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqul50021&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqul50021" /> </p>
+### Full Stack Software Engineer | Laravel | React.js | AI-Assisted Development
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqul50021" alt="ashiqul50021" /></a> </p>
+I'm a passionate Full Stack Software Engineer with 3+ years of experience building scalable web applications, REST APIs, E-commerce platforms, POS systems, Healthcare solutions, and Education Management Systems.
 
-<p align="left"> <a href="https://twitter.com/ashiqul_islam_" target="blank"><img src="https://img.shields.io/twitter/follow/ashiqul_islam_?logo=twitter&style=for-the-badge" alt="ashiqul_islam_" /></a> </p>
+I enjoy transforming business requirements into high-quality software solutions and leveraging modern AI tools to accelerate development while maintaining clean, maintainable code.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashiqul_islam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiqul_islam_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashiqulislamrasel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiqulislamrasel" height="30" width="40" /></a>
-<a href="https://fb.com/ashiqul97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiqul97" height="30" width="40" /></a>
+---
+
+## 🚀 About Me
+
+- 💼 Software Engineer at X-Spider Dev
+- 🌱 Currently exploring Flutter and modern software architecture
+- 🔭 Working with Laravel, React.js, MySQL, and AI-powered development tools
+- 🤖 Daily user of Cursor, Claude, and GitHub Copilot
+- 💡 Passionate about building scalable and maintainable software
+- 📍 Brahmanbaria, Bangladesh
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Productivity
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI-blue?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-AI-black?style=for-the-badge)
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer
+**X-Spider Dev** *(Oct 2024 - Present)*
+
+- Developed Diagnostic Management Systems using Laravel and React.js
+- Improved workflow efficiency through AI-assisted development
+- Built feature-rich POS systems
+- Optimized billing, reporting, and inventory management
+
+### Software Engineer
+**Classic IT & Sky Mark Ltd** *(Jun 2023 - Sep 2024)*
+
+- Developed E-commerce Platforms
+- Travel Management Systems
+- POS Software
+- Doctor Portal Solutions
+
+### Software Engineer
+**Smart Software Ltd** *(Apr 2022 - May 2023)*
+
+- Worked on HRM Systems
+- ERP Solutions
+- REST API Development
+- Laravel & React.js Applications
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Wood Machinery
+Multi-Vendor E-commerce Platform
+
+**Tech Stack:** Laravel, MySQL
+
+Features:
+- Manufacturer Management
+- Branch Management
+- Role & Permission System
+- Staff Management
+
+---
+
+### 💳 POS Management System
+
+**Tech Stack:** Laravel, React.js
+
+Features:
+- Inventory Management
+- Sales Tracking
+- Reporting System
+- Financial Analytics
+
+---
+
+### 🏥 Doctor Portal
+
+**Tech Stack:** Laravel, React.js
+
+Features:
+- Patient Management
+- Appointment Scheduling
+- Healthcare Workflow Automation
+
+---
+
+### 🎓 Education Management System
+
+**Tech Stack:** React.js, Redux, Laravel API, Tailwind CSS
+
+Features:
+- Student Management
+- Academic Operations
+- Responsive Dashboard
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashiqul50021&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqul50021&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqul50021&show_icons=true&locale=en&layout=compact" alt="ashiqul50021" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqul50021&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqul50021&show_icons=true&locale=en" alt="ashiqul50021" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqul50021&" alt="ashiqul50021" /></p>
+## 🎯 Career Goals
+
+My goal is to become a highly skilled Software Architect and Technical Leader, specializing in scalable web applications, modern software architecture, AI-assisted development, and cloud-native solutions.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://ashiqulislamrasel.com
+- 💼 LinkedIn: https://linkedin.com/in/ashiqul-islam--rasel
+- 💻 GitHub: https://github.com/ashiqul50021
+- 📧 Email: ashiqulislamrasel@gmail.com
+
+---
+
+⭐ If you like my work, feel free to connect and collaborate!
